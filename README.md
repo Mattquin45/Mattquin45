@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">I'm a student from Florida international university pursuing a bachelors in Computer science. I'm also a passionate imbedded and front end developer</h3>
 
+<p>I do things from working with hardware to creating websites. I would love for you to follow me in my journey aswell :)</p>
+
 - 🔭 I’m currently working on [RTV](https://github.com/Mattquin45/RTV-APP)
 
 <h3 align="left">Connect with me:</h3>
