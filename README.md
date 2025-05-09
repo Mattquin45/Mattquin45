@@ -4,7 +4,7 @@
 <p>I do things from working with hardware to creating websites. I would love for you to follow me in my journey aswell :)</p>
 
 - 🔭 I’m currently working on a <a href="https://github.com/Mattquin45/Suggestion-calander">suggestion calander</a>
-- 💥 Check out my recent Hackathon project that won first place in Software development and AI integration that called TrackLaw(https://github.com/Ahirshson02/TrackLaw) 
+- 💥 Check out my recent Hackathon project that won first place in Software development and AI integration that called <a href="https://github.com/Ahirshson02/TrackLaw">TrackLaw</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
