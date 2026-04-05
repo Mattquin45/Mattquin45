@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">I'm a student from Florida international university pursuing a bachelors in Computer science. I'm also a passionate Embedded and Front/back end End Developer</h3>
+<h3 align="center">I'm a student from Florida international university pursuing a bachelors in Computer science. I'm also a passionate Embedded and Backend developer</h3>
 
-<p>I do things from working with hardware to creating websites. I would love for you to follow me in my journey aswell :)</p>
+<p>I do things from working with hardware like developing sensors and even working with specific types of robot models. I would love for you to follow me in my journey aswell :)</p>
+<p>A fun fact about myself is I know how to play multiple instruments!</p>
 
 - 🔭 I’m currently working on a <a href="https://github.com/Mattquin45/Galileo_OpenGL">Galileo physics simulator</a>
 - 💥 Check out my recent Hackathon project that won first place in Software development and AI integration thats called <a href="https://github.com/Ahirshson02/TrackLaw">TrackLaw</a>
+- 🚀 Also checkout my current contributions to FIU SEDS's custom made flight computer <a href="https://github.com/FIU-SEDS/Denali"> here!
+- ⚙️ <a href="https://matthewquintero.dev/">Here is my website as well!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
